@@ -9,5 +9,9 @@ Narišite v EasyEDA vezalno shemo za vaš projekt s krmilnikom MITSUBISHI (AL oz
 Fizično realizirajte delovanje naprave/programa z ustreznim krmilnikom Mitsubishi Alpha z ustreznimi aktuatorji in senzorji.
  
  
- ![image](https://user-images.githubusercontent.com/129843992/236381698-0db8f33d-94ca-4c15-af90-f1f4a47cdca7.png)
+![image](https://user-images.githubusercontent.com/129843992/236383248-f67a411e-3230-414d-98e7-0326d9a45632.png)
+
+
+![image](https://user-images.githubusercontent.com/129843992/236383297-0231fd16-c78e-4adf-a8b6-dc236a9d214c.png)
+
 
